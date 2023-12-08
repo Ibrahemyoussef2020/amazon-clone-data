@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "Ibrahim Youssef",
-  "license": "ISC",
-  "devDependencies": {
-    "json-server": "^0.17.4"
-  }
+  "license": "ISC"
 }
