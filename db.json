@@ -58,7 +58,7 @@
         "title": "Familly Plan try for Month",
         "details": "Have 3 Monthes and 2 Weeks for Free",
         "image": "images/home_grid_8",
-        "link": "Take a look ",
+        "link": "Take a look",
         "classes":"visible-offer-900"
       },
       {
@@ -136,7 +136,7 @@
         "title": "Familly Plan try for Month",
         "details": "Have 3 Monthes for Free big offer",
         "image": "images/home_grid_16",
-        "link": "Take a look ",
+        "link": "Take a look",
         "classes":"hidden-900-1400"
       }
     ],
