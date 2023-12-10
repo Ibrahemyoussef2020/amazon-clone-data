@@ -2,7 +2,7 @@
     "offers": [
       {
         "id": 1,
-        "title": "surprice for you",
+        "title": "We Have surprice for you",
         "details": "Go to Browes Our Offers form Amazone",
         "image": "images/home_grid_1",
         "link": "Discover it"
@@ -16,17 +16,17 @@
       },
       {
         "id": 3,
-        "title": "Unlimited streaming",
+        "title": "Unlimited streaming P",
         "details": "Browes offer without any  hizitaion",
         "image": "images/home_grid_3",
-        "link": "Subscribe within us"
+        "link": "Join within us"
       },
       {
         "id": 4,
         "title": "Explore more titles",
         "details": "Most Reedings and Writers",
         "image": "images/home_grid_4",
-        "link": "Dowenload and Read",
+        "link": "Load and Read",
         "classes":""
       },
       {
@@ -34,7 +34,7 @@
         "title": "Shop Pet Supplies",
         "details": "Group of Seperated Mels",
         "image": "images/home_grid_5",
-        "link": "Provide Helthy and Tasty",
+        "link": "Helthy and Tasty",
         "classes":""
       },
       {
@@ -50,7 +50,7 @@
         "title": "Echo Buds",
         "details": "Best pakages of black Samsung airpods",
         "image": "images/home_grid_7",
-        "link": "Feast your Ears",
+        "link": "Your Ears",
         "classes":"visible-offer-900"
       },
       {
@@ -98,7 +98,7 @@
         "title": "Unlimited streaming",
         "details": "Browes without hizitaion",
         "image": "images/home_grid_11",
-        "link": "Subscribe within us"
+        "link": "Join within us"
       },
       {
         "id": 12,
@@ -115,7 +115,7 @@
         "title": "Shop Pet Supplies",
         "details": "Group of Seperated Mels",
         "image": "images/home_grid_13",
-        "link": "Provide Helthy and Tasty"
+        "link": "Helthy and Tasty"
       },
       {
         "id": 14,
