@@ -2,28 +2,28 @@
     "offers": [
       {
         "id": 1,
-        "title": "We Have surprice for you",
+        "title": "We Have a surprice for you",
         "details": "Go to Browes Our Offers form Amazone",
         "image": "images/home_grid_1",
         "link": "Discover it"
       },
       {
         "id": 2,
-        "title": "The power of rings",
+        "title": "The power of rings movi",
         "details": "part 3 from Lord Of rings Movi - Watch",
         "image": "images/home_grid_2",
         "link": "Watch a movi"
       },
       {
         "id": 3,
-        "title": "Unlimited streaming P",
+        "title": "Unlimited streaming Plan",
         "details": "Browes offer without any  hizitaion",
         "image": "images/home_grid_3",
         "link": "Join within us"
       },
       {
         "id": 4,
-        "title": "Explore more titles",
+        "title": "Explore more titles within",
         "details": "Most Reedings and Writers",
         "image": "images/home_grid_4",
         "link": "Load and Read",
@@ -31,7 +31,7 @@
       },
       {
         "id": 5,
-        "title": "Shop Pet Supplies",
+        "title": "Shop our Pet Supplies",
         "details": "Group of Seperated Mels",
         "image": "images/home_grid_5",
         "link": "Helthy and Tasty",
@@ -39,7 +39,7 @@
       },
       {
         "id": 6,
-        "title": "Spring Sale",
+        "title": "Do not miss spring Sale",
         "details": "More cheep product also, more premium",
         "image": "images/home_grid_6",
         "link": "Commen! Go fun",
@@ -63,7 +63,7 @@
       },
       {
         "id": "8+1",
-        "title": "The power of rings",
+        "title": "The power of rings movi",
         "details": "part 3 from Lord Of rings Movi",
         "image": "images/home_grid_2",
         "link": "Watch a movi",
@@ -71,7 +71,7 @@
       },
       {
         "id": "8+2",
-        "title": "Spring Sale",
+        "title": "Do not miss spring Sale",
         "details": "More cheep and more premium offer",
         "image": "images/home_grid_14",
         "link": "Commen! Go fun",
@@ -81,28 +81,28 @@
     "offers_two": [
       {
         "id": 9,
-        "title": "surprice for you",
+        "title": "We Have a surprice for you",
         "details": "Go to Browes Our Offers",
         "image": "images/home_grid_9",
         "link": "Discover it"
       },
       {
         "id": 10,
-        "title": "The power of rings",
+        "title": "The power of rings movi",
         "details": "part 3 from Lord Of rings Movi",
         "image": "images/home_grid_10",
         "link": "Watch a movi"
       },
       {
         "id": 11,
-        "title": "Unlimited streaming",
+        "title": "Unlimited streaming Plan",
         "details": "Browes without hizitaion",
         "image": "images/home_grid_11",
         "link": "Join within us"
       },
       {
         "id": 12,
-        "title": "Explore more titles",
+        "title": "Explore more titles within",
         "details": "Most Reedings and Writers",
         "image": "images/home_grid_12",
         "link": "Dowenload and Read",
@@ -112,28 +112,28 @@
     "offers_three": [
       {
         "id": 13,
-        "title": "Shop Pet Supplies",
+        "title": "Shop our Pet Supplies",
         "details": "Group of Seperated Mels",
         "image": "images/home_grid_13",
         "link": "Helthy and Tasty"
       },
       {
         "id": 14,
-        "title": "Spring Sale",
+        "title": "Do not miss spring Sale",
         "details": "More cheep and more premium",
         "image": "images/home_grid_14",
         "link": "Commen! Go fun"
       },
       {
         "id": 15,
-        "title": "Echo Buds",
+        "title": "We have too Echo Buds",
         "details": "Best pakages of this black airpods",
         "image": "images/home_grid_15",
         "link": "Feast your Ears"
       },
       {
         "id": 16,
-        "title": "Familly Plan try",
+        "title": "Familly Plan try for Month",
         "details": "Have 3 Monthes for Free big offer",
         "image": "images/home_grid_16",
         "link": "Take a look about Plan",
